@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,23 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# rbac-ui
+This codebase contains only frontend part but provided the service module for the future backend implimentations
+ ### Steps to run this Project
+1.open the terminal
+
+2.type 
+```bash
+npm start
+```
+
+3.open browser and hit the url 
+(If you want to confi the port, you van chnage in the .env file)
+```bash
+http://localhost:5000/api
+```
+
+
+
+>>>>>>> 00541c097c2d0b956bcec9556c6f963fe1cc0a74
